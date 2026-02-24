@@ -82,17 +82,6 @@ visual: ![Revenue by Country](images/revenue_by_country.png)
 - Focus retention campaigns in the UK and explore high-performing secondary markets
 
 
-### INTERACTIVE REVENUE VS QUANTITY ANALYSIS
-
-- Shows the relationship between total revenue and quantity sold per product.allowing deeper understanding of product performance 
-
-- Hover over points to see product name, quantity, and revenue.
-
-- Colors highlight top products by revenue, quantity, or both.
-![Revenue vs Quantity Screenshot](images/revenue_vs_quantity_screenshot.png)
-
-[Click here to view the interactive chart live](interactive/revenue_vs_quantity.html)
-
 
 
  ### HOW TO RUN THE PROJECT 
